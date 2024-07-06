@@ -20,8 +20,6 @@ In statistics, linear regression is used to model relationships between independ
 
 In this project, we will create a linear regression model to predict house prices based on house sizes. Using a scatterplot of test data, the model will form a relationship between the two variables and then make predictions.
 
-## Data Set for House Size and Price
-
 ## Getting Set Up with Anaconda
 
 This project will show you how to use predictive modeling on the Anaconda Online editor. We are eliminating the need for local installations. Anaconda Online uses integrated Jupyter Notebooks and powerful package management that make running complex programs, including linear regression, super easy.
