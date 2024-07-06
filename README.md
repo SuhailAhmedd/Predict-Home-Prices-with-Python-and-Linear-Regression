@@ -2,7 +2,6 @@
 
 **Prerequisites:** Python fundamentals  
 **Versions:** Anaconda Online  
-**Read Time:** 60 minutes  
 
 ## Introduction
 
