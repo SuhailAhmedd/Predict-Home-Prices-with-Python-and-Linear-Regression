@@ -153,6 +153,8 @@ plt.show()
 
 With our plt object, we use a scatter plot to visualize the actual and predicted prices. Selecting the "run" button will show the results with blue dots and a red regression line.
 
+![scatterplot](scatterplot.png)
+
 ## Conclusion
 
 That's it, you have now officially trained and visualized a predictive modeling algorithm!
